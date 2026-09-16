@@ -2,7 +2,7 @@
 
 <div align="center">
        
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3300&pause=900&color=58C4DC&center=true&vCenter=true&width=1100&lines=HTML5+%C2%B7+CSS3+%C2%B7+JavaScript+%C2%B7+Tailwind+CSS;ReactJs+%C2%B7+NextJS+%C2%B7+NodeJs+%C2%B7+ExpressJs;Responsive+Design+%C2%B7+Clean+Code+%C2%B7+Real+Projects;Currently%3A+SUPER+CHARGE+INTERVIEW+CLUB%28SCIC%29+By+Programming+Hero;Open+to+Internships+%26+Entry-Level+Roles)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3300&pause=900&color=58C4DC&center=true&vCenter=true&width=1100&lines=HTML5+%C2%B7+CSS3+%C2%B7+JavaScript+%C2%B7+Tailwind+CSS;ReactJs+%C2%B7+NextJS+%C2%B7+NodeJs+%C2%B7+ExpressJs;Responsive+Design+%C2%B7+Clean+Code+%C2%B7+Real+Projects;Currently%3A+SUPER+CHARGE+PLACEMENT+CLUB%28SCPC%29+By+Programming+Hero;Open+to+Internships+%26+Entry-Level+Roles)](https://git.io/typing-svg)
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neya-mul)
@@ -216,5 +216,5 @@ A full-stack fitness lounge platform with community forums, letting members shar
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a2540,100:0d1117&height=200&section=footer" width="100%"/>
 
 <div align="center">
-  <sub>Crafted with discipline &nbsp;·&nbsp; <a href="https://github.com/neya-mul">github.com/neya-mul</a> &nbsp;·&nbsp; Updated April 2026</sub>
+  <sub>Crafted with discipline &nbsp;·&nbsp; <a href="https://github.com/nymlCodes">github.com/neya-mul</a> &nbsp;·&nbsp; Updated April 2026</sub>
 </div>

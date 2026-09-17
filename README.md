@@ -11,7 +11,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/nymlCodes)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/8801874062550)
 
-![Profile Views](https://komarev.com/ghpvc/?username=neya-mul&color=58C4DC&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=nymlCodes&color=58C4DC&style=flat-square&label=Profile+Views)
 
 </div>
 
@@ -36,11 +36,12 @@
 ⠈⠠⠁⠌⢐⠐⡀⡂⠌⡐⠡⡈⡂⡂⢻⠑⣿⣿⣽⣾⣮⣶⣵⣳⣽⣿⣿⣿⢮⡾⣵⡶⣵⣿⣯⣿⣿⢑⢻⡇⡯⡳⡽⣕⢯⣞⢮⣗⣗⡯⣟⡾⣽⣻  Status   : ● Active
 ⢈⠠⠁⠌⡀⡂⡐⠠⢁⠂⠅⡂⡂⡂⢹⡇⢻⣿⣿⣿⣿⣟⡯⣽⣷⣿⣿⣿⣿⣯⡝⣿⣿⣿⣿⣾⡿⠀⣿⢪⢏⡯⣺⢵⣫⢾⢵⣳⡳⡯⣷⣻⣳⣟  Location : Munshiganj, Dhaka
 ⢀⠐⡈⠄⠂⠄⢂⢁⠂⠅⡡⠂⠢⠨⠨⡂⢙⢿⣽⢿⣺⢽⣺⣵⡢⠎⢷⠫⠢⡪⡮⣗⢯⢿⣽⣟⠏⠐⡯⣫⡳⣝⢮⣳⣳⣫⢯⢾⢽⣫⣷⣻⢾⣽
+⢀⠐⡈⠄⠂⠄⢂⢁⠂⠅⡡⠂⠢⠨⠨⡂⢙⢿⣽⢿⣺⢽⣺⣵⡢⠎⢷⠫⠢⡪⡮⣗⢯⢿⣽⣟⠏⠐⡯⣫⡳⣝⢮⣳⣳⣫⢯⢾⢽⣫⣷⣻⢾⣽
 ⠀⡂⢐⠠⠡⠨⠐⡀⡊⡐⠄⠅⠅⠕⡡⠢⠀⡙⡿⣝⡎⡡⠠⠖⢖⠕⢖⠜⡖⢶⠲⠀⢝⣽⢽⠣⠁⢜⣝⢮⡺⡵⣻⢺⣺⡺⣽⣫⣯⢷⣻⣞⣯⣷  Email    : neyamulislam946
-⠐⡀⢂⠐⡈⠄⡁⡂⠔⠠⠡⠡⡑⠡⡂⢅⠅⠀⠌⡳⡳⣰⣻⣺⠽⡝⠽⡝⡮⣗⣞⢎⠮⡺⢅⠁⢠⢫⢮⡳⡽⣝⣞⡽⣮⡻⣮⣗⣯⣟⣷⣻⣽⣾             @gmail.com
+⠐⡀⢂⠐⡈⠄⡁⡂⠔⠠⠡⠡⡑⡡⡂⢅⠅⠀⠌⡳⡳⣰⣻⣺⠽⡝⠽⡝⡮⣗⢞⢎⠮⡺⢅⠁⢠⢫⢮⡳⡽⣝⣞⡽⣮⡻⣮⣗⣯⣟⣷⣻⣽⣾             @gmail.com
 ⢀⠂⡐⢐⠠⢁⠂⠄⠅⠅⢅⢑⢈⢂⠪⡐⠌⢄⠀⠑⢍⢺⢺⣺⢯⣷⣱⢵⣯⣗⢗⢝⢝⠌⠀⢠⠸⣜⣗⢽⢝⣞⢞⡾⡵⡯⣗⡷⣗⡿⣞⣯⣷⣿  Phone    : +880 1874-062550
 ⢀⠂⡐⢐⠐⡐⠨⠨⠨⠨⡐⡐⡡⢂⠕⡨⢊⠔⡀⡀⠀⠈⠘⠪⠫⠪⠪⠑⠱⠑⠡⠁⠀⠀⠀⡌⣽⡪⡮⡯⣳⢽⣝⢾⢽⣫⣯⢿⣽⣻⢿⣽⣷⣿  LinkedIn : /in/neya-mul
-⢀⠂⢂⠂⡂⠂⢅⠡⠡⡁⡂⡢⢂⠅⡊⢔⠡⡊⡢⠀⠄⠀⠂⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢐⡀⣗⢵⢽⢝⣞⡽⣵⣫⢯⡯⡷⣯⢿⣞⣿⣻⣷⣿⣾  GitHub   : /neya-mul
+⢀⠂⢂⠂⡂⠂⢅⠡⠡⡁⡂⡢⢂⠅⡊⢔⠡⡊⡢⠀⠄⠀⠂⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢐⡀⣗⢵⢽⢝⣞⡽⣵⣫⢯⡯⡷⣯⢿⣞⣿⣻⣷⣿⣾  GitHub   : /nymlCodes
 ⠠⠈⠄⢂⢂⢑⠐⡨⢐⢐⢐⠔⡐⢅⠪⡐⣑⢌⡮⡊⢄⠀⡀⠀⢀⠀⠀⠀⠀⠂⢀⠡⡈⢢⡪⣮⡛⢮⢯⣞⢾⢵⢯⢯⢿⡽⣯⣟⣷⢿⣽⣾⣷⣿
 ⠠⠡⠨⠐⡀⠢⠨⢐⢐⠐⠔⡨⡠⠕⡘⠌⠂⢺⡽⡺⣔⢅⢆⢡⢀⢔⢔⢔⢄⢐⠐⢅⡪⣪⢺⡪⣿⠀⠊⠬⡙⡝⢯⢿⣽⡽⣷⣻⣽⣿⣻⣽⣿⣽  Open to  : Internships,
 ⠐⡈⠄⠅⠂⢅⢡⢢⠢⡃⢋⢈⠠⠊⠐⠁⠌⠀⢿⣝⢮⡣⣇⢇⡇⣇⢧⡳⡕⡇⣏⢮⢺⡸⣕⡽⠃⠀⠌⡠⠠⡁⢃⠪⡨⠹⡹⡻⢷⣿⣟⣿⣿⣿             Entry-Level Roles
@@ -62,7 +63,7 @@
 
 </div>
 
-My name is **Neyamul Islam**. I’m a passionate **MERN Stack Developer** currently learning and building real-world projects through the Programming Hero AI-Powered Web Development Bootcamp.
+My name is **Neyamul Islam**. I'm a passionate **MERN Stack Developer** currently learning and building real-world projects through the Programming Hero AI-Powered Web Development Bootcamp.
 
 I enjoy transforming ideas into **clean, responsive, and user-friendly interfaces** using HTML, CSS, JavaScript, and Tailwind CSS.
 
@@ -71,10 +72,7 @@ I enjoy transforming ideas into **clean, responsive, and user-friendly interface
 - 🔧 Practicing problem-solving every day  
 - 🎯 Goal: Become a professional front-end engineer  
 
-
-
 ---
-
 
 ## 🛠️ Tech Stack
 
@@ -100,9 +98,6 @@ I enjoy transforming ideas into **clean, responsive, and user-friendly interface
 
 </div>
 
-<!-- <img src="https://capsule-render.vercel.app/api?type=slice&color=timeGradient&height=80&section=header&animation=twinkling&reversal=true" width="100%"/> -->
-
-
 ---
 
 ## 🗂️ Projects
@@ -117,7 +112,7 @@ A pet adoption platform helping loving homes find their new family member. Brows
 `Next.js` `Tailwind CSS` `MongoDB`
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-58C4DC?style=flat-square&logo=firefox-browser&logoColor=white)](https://assignment-9-ten-gules.vercel.app/)
-[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/neya-mul/Assignment-9)
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/nymlCodes/Assignment-9)
 
 </td>
 <td width="50%" valign="top">
@@ -128,12 +123,12 @@ An online book borrowing platform where users can browse, request, and manage bo
 `Next.js` `Tailwind CSS` `BetterAuth` `MongoDB`
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-58C4DC?style=flat-square&logo=firefox-browser&logoColor=white)](https://neyamul-assignment-8.vercel.app/home)
-[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/neya-mul/Assignment-8)
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/nymlCodes/Assignment-8)
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td colspan="2" valign="top">
 
 ### 💪 Fitness Cafe — Fitness Lounge & Forum
 A full-stack fitness lounge platform with community forums, letting members share workouts, connect, and engage around fitness goals.
@@ -141,22 +136,17 @@ A full-stack fitness lounge platform with community forums, letting members shar
 `Next.js` `Express.js` `MongoDB` `Tailwind CSS`
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-58C4DC?style=flat-square&logo=firefox-browser&logoColor=white)](https://assignment-10-zeta-blush.vercel.app/)
-[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/neya-mul/Assignment-10)
-
-</td>
-<td width="50%" valign="top">
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/nymlCodes/Assignment-10)
 
 </td>
 </tr>
 </table>
 
-<!-- <img src="https://capsule-render.vercel.app/api?type=slice&color=timeGradient&height=80&section=footer&animation=twinkling" width="100%"/> -->
-
 ---
 
 ## 💼 Experience
 
-**Web Development Learner** &nbsp;·&nbsp; ![Programming Hero](https://img.shields.io/badge/Programming_Hero-FF6154?style=flat-square&logo=rocket&logoColor=white) &nbsp;·&nbsp; *Dec 2025 – Present*
+**Web Development Learner** &nbsp;·&nbsp; ![Programming Hero](https://img.shields.io/badge/Programming_Hero-FF6154?style=flat-square&logo=rocket&logoColor=white) &nbsp;·&nbsp; *Jan 2026 – June 2026*
 
 - 📚 Enrolled in the AI-Powered Web Development Bootcamp — structured curriculum with mentor evaluation
 - ✅ 5+ assignments completed with **full scores**, including real project builds
@@ -164,6 +154,7 @@ A full-stack fitness lounge platform with community forums, letting members shar
 - 🚀 Building small to medium projects to develop professional front-end development habits
 
 ---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -172,17 +163,15 @@ A full-stack fitness lounge platform with community forums, letting members shar
 
 <br/>
 
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=nymlCodes&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58C4DC&fire=58C4DC&currStreakLabel=58C4DC&sideLabels=8b949e&dates=8b949e" height="170"/>
+<img src="https://streak-stats.demolab.com/?user=nymlCodes&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58C4DC&fire=58C4DC&currStreakLabel=58C4DC&sideLabels=8b949e&dates=8b949e&card_width=280" height="170"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neya-mul&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58C4DC&text_color=8b949e" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nymlCodes&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58C4DC&text_color=8b949e" height="170"/>
 
 </div>
-<!-- <img src="https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=6&animation=twinkling" width="100%"/> -->
 
+<sub><em>Note: the public streak-stats and stats hosts are free, community-run services and occasionally rate-limit or go down. If the streak card stops rendering again, the most reliable fix is to self-host it via a GitHub Action that commits a static SVG to your profile repo — see <a href="https://github.com/DenverCoder1/github-readme-streak-stats#github-action">github-readme-streak-stats GitHub Action docs</a>.</em></sub>
 
 ## 🎓 Education
-
-
 
 | Qualification | Institution | Year | Grade |
 |---|---|---|---|
@@ -216,5 +205,5 @@ A full-stack fitness lounge platform with community forums, letting members shar
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a2540,100:0d1117&height=200&section=footer" width="100%"/>
 
 <div align="center">
-  <sub>Crafted with discipline &nbsp;·&nbsp; <a href="https://github.com/nymlCodes">github.com/neya-mul</a> &nbsp;·&nbsp; Updated April 2026</sub>
+  <sub>Crafted with discipline &nbsp;·&nbsp; <a href="https://github.com/nymlCodes">github.com/nymlCodes</a> &nbsp;·&nbsp; Updated April 2026</sub>
 </div>
